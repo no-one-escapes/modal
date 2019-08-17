@@ -1,7 +1,5 @@
 -----html-----
 
-
-
 <button class="modal-show" data-modal="#sign-in">Show window</button>
 <div class="modal-wrap hide" id="sign-in">
 	<div class="modal">Our modal window
