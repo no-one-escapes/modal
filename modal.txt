@@ -1,5 +1,3 @@
-
-
 -----html-----
 
 
@@ -13,11 +11,7 @@
         
 </div>
 
-
-
 -----css-----
-
-
 
 .round-close {
     background: rgb(156, 156, 156);
@@ -80,12 +74,7 @@
     display: none;
 }
 
-
-
 -----js-----
-
-
-
 
 document.querySelectorAll('.modal-show').forEach(function(element){
     element.onclick = showModal;
